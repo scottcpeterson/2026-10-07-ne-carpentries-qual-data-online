@@ -115,7 +115,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <strong>Registration:</strong> Please register in Zoom before attending the workshop.
 </p>
 <p>
-  <a href="[https://your-zoom-registration-link-here.com](https://buffalo.zoom.us/meeting/register/MmnqLUTWQ7iNkyPompdxnA#/registration)" class="btn btn-primary">
+  <a href="https://buffalo.zoom.us/meeting/register/MmnqLUTWQ7iNkyPompdxnA#/registration" class="btn btn-primary">
     Register for the workshop
   </a>
 </p>
