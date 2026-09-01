@@ -112,7 +112,10 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 <p>
-  <strong>Registration:</strong> Please register in Zoom before attending the workshop.
+  <strong>Registration:</strong> Please register through Zoom to attend the workshop.
+</p>
+<p>
+  Individual workshop descriptions can be found on the registration page.
 </p>
 <p>
   <a href="https://buffalo.zoom.us/meeting/register/MmnqLUTWQ7iNkyPompdxnA#/registration" class="btn btn-primary">
