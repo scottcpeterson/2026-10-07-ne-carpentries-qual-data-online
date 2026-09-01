@@ -115,7 +115,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <strong>Registration:</strong> Please register through Zoom to attend the workshop.
 </p>
 <p>
-  Individual workshop descriptions can be found on the registration page.
+  Individual workshop descriptions can be found in the schedule below and on the registration page.
 </p>
 <p>
   <a href="https://buffalo.zoom.us/meeting/register/MmnqLUTWQ7iNkyPompdxnA#/registration" class="btn btn-primary">
